@@ -24,7 +24,7 @@ body {
 
 header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    color: red;
     padding: 40px 20px;
     text-align: center;
 }
@@ -104,6 +104,6 @@ footer {
     }
 
     .course-description {
-        font-size: 0.95em;
+        font-size: 0.50em;
     }
 }
